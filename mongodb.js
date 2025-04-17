@@ -12,6 +12,7 @@ async function dbconnect() {
     return db.collection('products');
     // let response = await collection.find({name:'Awais'}).toArray();
     // console.log(response);
+    //Awais
 }
 
 module.exports= dbconnect;
